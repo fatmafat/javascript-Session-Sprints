@@ -117,7 +117,7 @@ function countstring(a,ind,b){
     let count
 }
 function inverse(string){
-    let string=""
+    let x=""
     let i=string.length-1
     while(i>=0){
         string+=string[i]
